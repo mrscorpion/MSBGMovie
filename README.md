@@ -2,7 +2,7 @@
 逼格版视频背景登录页 (Background movie) - BGMovie 逼格Movie
 ## 效果图
 
-![](Shooting.gif)
+![](BGMovie.gif)
 
 ## Contact
 
